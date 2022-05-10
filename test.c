@@ -17,7 +17,7 @@
 
 typedef struct{
     char shop[20];
-    char tier;
+    char tier;//
     int pos;//1이면 가능 0이면 불가능
 }rest;
 typedef struct{
